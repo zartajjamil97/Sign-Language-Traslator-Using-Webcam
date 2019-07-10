@@ -1,0 +1,2 @@
+# Sign-Language-Traslator-Using-Webcam
+The Sign Language Translator (SLT) is an extremely important research topic, because of its  capability to enhance the communication between the people who are handicapped in hearing and  speech. A hand gesture recognition system can help deaf and dumb persons to interact with vocal  people without the help of an interpreter or intermediate.  Sign languages are some sort of visual languages and natural languages that are used by many deaf  and dumb people in all over the world.
